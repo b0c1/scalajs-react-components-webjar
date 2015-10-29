@@ -4,11 +4,11 @@
   "description": "React Components for ScalaJS",
   "author": "Janos Haber <boci.boci@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/b0c1/scalajs-react-components",
+  "homepage": "https://github.com/b0c1/scalajs-react-components-webjar.git",
   "main": "react-components.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/b0c1/scalajs-react-components.git"
+    "url": "https://github.com/b0c1/scalajs-react-components-webjar.git"
   },
   "keywords": [
     "react",
