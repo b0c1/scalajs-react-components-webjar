@@ -1,6 +1,6 @@
 {
   "name": "scalajs-react-components-webjar",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "React Components for ScalaJS",
   "author": "Janos Haber <boci.boci@gmail.com>",
   "license": "MIT",
