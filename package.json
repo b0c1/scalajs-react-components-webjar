@@ -1,6 +1,6 @@
 {
   "name": "scalajs-react-components-webjar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Components for ScalaJS",
   "author": "Janos Haber <boci.boci@gmail.com>",
   "license": "MIT",
@@ -31,9 +31,7 @@
     "style-loader": "^0.12.3",
     "url-loader": "^0.5.6",
     "webpack": "^1.9.10",
-    "webpack-dev-server": "^1.9.0"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^1.9.0",
     "material-ui": "^0.13.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0-0",
@@ -44,5 +42,8 @@
     "react-tagsinput": "^2.0.0",
     "react-tap-event-plugin": "^0.2.1",
     "svg-loader": "0.0.2"
+  },
+  "dependencies": {
+
   }
 }
